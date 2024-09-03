@@ -23,8 +23,16 @@
 ![Bash](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&color=4EAA25)
 ![Docker](https://img.shields.io/badge/Container-Docker-informational?style=flat&logo=docker&color=2496ED)
 
+## Licenses and Certifications
+
+![Microsoft Certified: Azure Fundamentals](https://img.shields.io/badge/Certification-Microsoft%20Certified%3A%20Azure%20Fundamentals-blue?logo=microsoft-azure)
+![Microsoft Certified: Azure AI Fundamentals](https://img.shields.io/badge/Certification-Microsoft%20Certified%3A%20Azure%20AI%20Fundamentals-blue?logo=microsoft-azure)
+![Microsoft Certified: Azure Data Fundamentals](https://img.shields.io/badge/Certification-Microsoft%20Certified%3A%20Azure%20Data%20Fundamentals-blue?logo=microsoft-azure)
+![Microsoft Certified: Azure Data Engineer Associate](https://img.shields.io/badge/Certification-Microsoft%20Certified%3A%20Azure%20Data%20Engineer%20Associate-blue?logo=microsoft-azure)
+
+
 With a passion for **big data** and **AI-driven technologies**, I specialize in turning complex challenges into scalable and innovative solutions.
 
-- 🔭 I'm working on top-secret projects to reshape industries into the IoT world.
+- 🔭 I'm working as a Cyber-Physical System Engineer on top-secret projects to reshape industries into the IoT world.
 - 🌱 Always eager to expand my knowledge and contribute to open-source communities.
 - 🚀 On a mission to push the boundaries of what's possible with code.
