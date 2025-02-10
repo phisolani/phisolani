@@ -1,8 +1,9 @@
 ## 👋 Hey there, I'm Pedro!
 
-**Voyager in the digital cosmos, unraveling the mysteries of computer science with the insight and curiosity of a timeless explorer.**
+> **"Sokath, his eyes open."**  
+> — Dathon (*Star Trek: The Next Generation*, S5E2, *Darmok*, 1991)
 
-With a passion for **big data** and **AI-driven technologies**, I specialize in turning complex challenges into scalable and innovative solutions.
+With a passion for big data and AI-driven technologies, I specialize in turning complex challenges into scalable and innovative solutions. Like Dathon's metaphorical language, I believe in the power of shared knowledge, patterns, and structured communication—whether in data, AI, or cloud infrastructure.
 
 ### Tools and Technologies
 
@@ -34,4 +35,4 @@ With a passion for **big data** and **AI-driven technologies**, I specialize in 
 
 ### Let's work together
 
-I'm available for collaborations. Contact me here or at [https://www.tasmo.be](https://www.tasmo.be)
+I'm available for collaborations. Reach me out here or at [https://www.tasmo.be](https://www.tasmo.be)
