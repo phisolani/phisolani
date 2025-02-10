@@ -4,10 +4,6 @@
 
 With a passion for **big data** and **AI-driven technologies**, I specialize in turning complex challenges into scalable and innovative solutions.
 
-- 🔭 I'm working as a Cyber-Physical System Engineer on top-secret projects to reshape industries into the IoT world.
-- 🌱 Always eager to expand my knowledge and contribute to open-source communities.
-- 🚀 On a mission to push the boundaries of what's possible with code.
-
 ### Tools and Technologies
 
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E)
